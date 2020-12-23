@@ -4,9 +4,9 @@ CC = xelatex
 EXAMPLES_DIR = .
 
 
-examples: $(foreach x, Resume, $x.pdf)
+examples: $(foreach x, resume, $x.pdf)
 
-Resume.pdf: $(EXAMPLES_DIR)/Resume.tex 
+resume.pdf: $(EXAMPLES_DIR)/resume.tex 
 	$(CC) -output-directory=$(EXAMPLES_DIR) $<
 
 
