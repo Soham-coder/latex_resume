@@ -55,7 +55,7 @@ This should result in the creation of ``{your-cv}.pdf``
 
 ## Credit
 
-[**LaTeX**](http://www.latex-project.org) is a fantastic typesetting program that a lot of people use these days, especially the math and computer science people in academia.
+[```latex \LaTeX```](http://www.latex-project.org) is a fantastic typesetting program that a lot of people use these days, especially the math and computer science people in academia.
 
 
 
