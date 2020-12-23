@@ -6,7 +6,7 @@ EXAMPLES_DIR = examples
 
 examples: $(foreach x, Resume, $x.pdf)
 
-resume.pdf: $(EXAMPLES_DIR)/Resume.tex 
+Resume.pdf: $(EXAMPLES_DIR)/Resume.tex 
 	$(CC) -output-directory=$(EXAMPLES_DIR) $<
 
 
