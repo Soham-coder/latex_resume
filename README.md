@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  <a href="https://raw.githubusercontent.com/Soham-coder/latex_resume/main/examples/Resume.pdf">
+  <a href="https://raw.githubusercontent.com/Soham-coder/latex_resume/main/resume.pdf">
     <img alt="Example Resume" src="https://img.shields.io/badge/resume-pdf-green.svg" />
   </a>
 </div>
@@ -22,11 +22,11 @@ This a is LaTeX template for a **CV(Curriculum Vitae)**, **Résumé**  inspired 
 
 #### Résumé
 
-You can see [PDF](https://raw.githubusercontent.com/Soham-coder/latex_resume/main/examples/Resume.pdf)
+You can see [PDF](https://raw.githubusercontent.com/Soham-coder/latex_resume/main/resume.pdf)
 
 | Page. 1 | Page. 2 |
 |:---:|:---:|
-| [![Résumé](https://raw.githubusercontent.com/Soham-coder/latex_resume/main/examples/resume-0.png)](https://raw.githubusercontent.com/Soham-coder/latex_resume/main/examples/Resume.pdf)  | [![Résumé](https://raw.githubusercontent.com/Soham-coder/latex_resume/main/examples/resume-1.png)](https://raw.githubusercontent.com/Soham-coder/latex_resume/main/examples/Resume.pdf) |
+| [![Résumé](https://raw.githubusercontent.com/Soham-coder/latex_resume/main/examples/resume-0.png)](https://raw.githubusercontent.com/Soham-coder/latex_resume/main/resume.pdf)  | [![Résumé](https://raw.githubusercontent.com/Soham-coder/latex_resume/main/examples/resume-1.png)](https://raw.githubusercontent.com/Soham-coder/latex_resume/main/resume.pdf) |
 
 
 ## Quick Start
