@@ -58,6 +58,14 @@ This should result in the creation of ``{your-cv}.pdf``
 [```latex \LaTeX```](http://www.latex-project.org) is a fantastic typesetting program that a lot of people use these days, especially the math and computer science people in academia.
 
 
+--- title: Just say hello! author: My Friend header-includes: \|
+
+abstract: This is a pandoc test with Markdown + inline LaTeX ---
+
+Just say hello! ===============
+
+This could be a good example or inlined LaTeX:
+
 
 ## Contact
 
