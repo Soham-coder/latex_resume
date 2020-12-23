@@ -1,7 +1,7 @@
 .PHONY: examples
 
 CC = xelatex
-EXAMPLES_DIR = examples
+EXAMPLES_DIR = .
 
 
 examples: $(foreach x, Resume, $x.pdf)
